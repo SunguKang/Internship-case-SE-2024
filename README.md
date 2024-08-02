@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to our Case Study. You've made it to the final phase of our selection process, and this is your opportunity to showcase your expertise and analytical prowess. We are excited to see how you approach the tasks and the insights you can generate from the data provided. We wish you the best of luck and hope you find the challenge engaging!
+Welcome to our Case Study. You've made it to the final phase of our selection process, and this is your opportunity to showcase your expertise. We are excited to see how you approach the tasks and the insights you can generate from the data provided. We wish you the best of luck and hope you find the challenge engaging!
 
 ## Assignment Overview
 
@@ -32,7 +32,7 @@ Imagine you are working for a large company with many users and large amounts of
 
 #### Consideration Task 2: what potential difficulties might you encounter when deploying the dashoboard on the cloud, and how would you tackle them?
 
-Prepare a 20-25 minutes presentation of Task 1 and ~ 5 minutes for Task 2
+Prepare a 15-20 minutes presentation of Task 1 and 5~10 minutes for Task 2
 
 Feel free to use any presentation software you are comfortable with
 
