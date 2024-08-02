@@ -34,6 +34,8 @@ Imagine you are working for a large company with many users and large amounts of
 
 Prepare a 20-25 minutes presentation of Task 1 and ~ 5 minutes for Task 2
 
+Feel free to use any presentation software you are comfortable with
+
 ### Considerations
 - There is no single "correct" solution; we are looking for your unique analytical approach.
 - Your ability to derive business insights from the analysis is crucial.
